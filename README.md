@@ -1,8 +1,6 @@
-## **Game**
+## **ArduSnake**
 
-<img src="game.svg" width="100%"><br/>
-
-This project has been developed by [developer][1] and forked directly from [original repo][2].
+This project has been developed by [Initgraph][1] and forked directly from [ ArduSnake][2].
 
 You can read the original README file from [here][3].
 
@@ -12,12 +10,12 @@ There is no original README file released by the developer.
 
 ## **License**
 
-This project has been released under the MIT License by it's developer.
+This project has been released under the GNU General Public License v2.0 by it's developer.
 
 The full document can be found in the [LICENSE][5] file.
 
-[1]: Developer
-[2]: Orijinal-Repo
-[3]: Orijinal-Readme
+[1]: https://github.com/Initgraph
+[2]: https://github.com/Initgraph/ArduSnake
+[3]: https://github.com/argeX-official/Game-ArduSnake/blob/master/OLD_README.md
 [4]: watchX-Hex
-[5]: Lisans
+[5]: https://github.com/argeX-official/Game-ArduSnake/blob/master/LICENSE
