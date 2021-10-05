@@ -17,5 +17,5 @@ The full document can be found in the [LICENSE][5] file.
 [1]: https://github.com/Initgraph
 [2]: https://github.com/Initgraph/ArduSnake
 [3]: https://github.com/argeX-official/Game-ArduSnake/blob/master/OLD_README.md
-[4]: watchX-Hex
+[4]: https://github.com/argeX-official/Game-ArduSnake/releases/
 [5]: https://github.com/argeX-official/Game-ArduSnake/blob/master/LICENSE
